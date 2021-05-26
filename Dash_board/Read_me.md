@@ -22,7 +22,8 @@
 
 ### Intro slide
 
-![image.png](attachment:image.png)
+-Image in Dash_board_Read_me.md의 Intro slide 참고
+<br>
 
 - 버거지수와 인구수를 지도에 시각화하여 제시
 <br>
@@ -34,7 +35,8 @@
 
 ### Firtst slide
 
-![image.png](attachment:image.png)
+-Image in Dash_board_Read_me.md의 First slide 참고
+<br>
 
 - 좌측 상단의 콤보박스를 이용하여, 광역시, 시, 군 단위로 버거지수 상위 10개 도시를 막대그래프로 확인 가능
 <br>
@@ -46,7 +48,8 @@
 
 ### Second slide
 
-![image.png](attachment:image.png)
+-Image in Dash_board_Read_me.md의 Second slide 참고
+<br>
 
 - 각 햄버거 브랜드 별로 매장수를 막대그래프로 시각화
 <br>
@@ -59,7 +62,8 @@
 
 ### Third slide
 
-![image.png](attachment:image.png)
+-Image in Dash_board_Read_me.md의 Third slide 참고
+<br>
 
 - 버거 지수가 유효한지 확인하기 위해 인구수와 회귀분석 실시
 <br>
@@ -75,7 +79,8 @@
 
 ### Forth slide
 
-![image.png](attachment:image.png)
+-Image in Dash_board_Read_me.md의 Forth slide 참고
+<br>
 
 - 분석에 쓰인 raw data download url 제공
 <br>
